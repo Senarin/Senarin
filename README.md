@@ -12,6 +12,6 @@
 - **[Blog in general](https://yukina.kr)**
 - **Velog** : [@aobamisaki](https://velog.io/@aobamisaki)
 
-[` My Works on GitHub `](https://github.com/Senarin?tab=repositories)  
-[` My Other Works `](https://senarin.kr)
+[` My works on GitHub `](https://github.com/Senarin?tab=repositories)  
+[` Website for my other works `](https://senarin.kr)
 
