@@ -1,4 +1,5 @@
 ### Welcome!!
+![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)  
 [![About me](https://img.shields.io/badge/About-yukina-%238ADFFF)](https://about.yukina.kr)
 [![Blog](https://img.shields.io/badge/Blog-yukina-%2301A860)](https://yukina.kr)
 ![Mail A](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
@@ -7,6 +8,7 @@
 [![Tumblr](https://img.shields.io/badge/-Tumblr-black?style=flat-square&logo=tumblr&logoColor=white&link=https://babelcity-grace.tumblr.com/)](https://babelcity-grace.tumblr.com/)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/roseliadiva_yukina)](https://www.twitch.tv/roseliadiva_yukina)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Senarin&count_private=true)
 
 - **[About me in general](https://about.yukina.kr)**
 - **[Blog in general](https://yukina.kr)**
