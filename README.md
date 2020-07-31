@@ -13,7 +13,7 @@
 
 - **[About me in general](https://about.yukina.kr)**
 - **[Blog in general](https://yukina.kr)**
-- **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**@Velog.io**)
+- **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 
 [` My works on GitHub `](https://github.com/Senarin?tab=repositories)  
 [` Website for my other works `](https://senarin.kr)
