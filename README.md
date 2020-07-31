@@ -18,9 +18,3 @@
 [` My works on GitHub `](https://github.com/Senarin?tab=repositories)  
 [` Website for my other works `](https://senarin.kr)
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSenarin)](https://hits.seeyoufarm.com)
-
-</div>
-
