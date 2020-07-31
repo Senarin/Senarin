@@ -8,6 +8,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RoseDiva_Yukina)](https://twitter.com/RoseDiva_Yukina)
 [![Tumblr](https://img.shields.io/badge/-Tumblr-35465c?style=flat-square&logo=tumblr&logoColor=white&link=https://babelcity-grace.tumblr.com/)](https://babelcity-grace.tumblr.com/)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/roseliadiva_yukina)](https://www.twitch.tv/roseliadiva_yukina)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/soniavidbleim)](https://www.facebook.com/soniavidbleim)
 
 - **[About me in general](https://about.yukina.kr)**
 - **[Blog in general](https://yukina.kr)**
@@ -15,4 +16,10 @@
 
 [` My works on GitHub `](https://github.com/Senarin?tab=repositories)  
 [` Website for my other works `](https://senarin.kr)
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSenarin)](https://hits.seeyoufarm.com)
+
+</div>
 
