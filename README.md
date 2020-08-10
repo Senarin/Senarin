@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-yukina-%2301A860)](https://yukina.kr)
 ![Mail A](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail B](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
-[![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/roseliadiva.yukina/)](https://www.instagram.com/roseliadiva.yukina/)
+[![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sonoritia.yukina/)](https://www.instagram.com/sonoritia.yukina/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Yukina_Sonority)](https://twitter.com/Yukina_Sonority)
 [![Tumblr](https://img.shields.io/badge/-Tumblr-35465c?style=flat-square&logo=tumblr&logoColor=white&link=https://babelcity-grace.tumblr.com/)](https://babelcity-grace.tumblr.com/)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/roseliadiva_yukina)](https://www.twitch.tv/roseliadiva_yukina)
