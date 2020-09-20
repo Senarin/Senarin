@@ -16,6 +16,6 @@
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 
 [` My works on GitHub `](https://github.com/Senarin?tab=repositories)  
-[` Website for my other works `](https://senarin.kr) 
+[` Website for my other works `](https://senarin.kr)  
 [` Intro website for my private server `](https://yukinastorage.net)
 
