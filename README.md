@@ -14,6 +14,7 @@
 - **[About me in general](https://about.yukina.kr)**
 - **[Blog in general](https://yukina.kr)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
+- **Public PGP Key** : [383769A94A75E478](https://keybase.io/senarin)
 
 [` My works on GitHub `](https://github.com/Senarin?tab=repositories)  
 [` Website for my other works `](https://senarin.kr)  
