@@ -1,7 +1,7 @@
 ### Welcome!!
 ![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)  
-[![About me](https://img.shields.io/badge/About-yukina-%238ADFFF)](https://about.yukina.kr)
-[![Blog](https://img.shields.io/badge/Blog-yukina-%2301A860)](https://yukina.kr)
+[![About me](https://img.shields.io/badge/About-yukina-%238ADFFF)](https://yukina.kr)
+[![Blog](https://img.shields.io/badge/Blog-yukina-%2301A860)](https://yukina.blog)
 ![Mail A](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail B](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yukina.sonority/)](https://www.instagram.com/yukina.sonority/)
@@ -13,7 +13,7 @@
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 
 - **[About me in general](https://about.yukina.kr)**
-- **[Blog in general](https://yukina.kr)**
+- **[Blog in general](https://yukina.blog)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `4E44373A4D0B7191`
 
