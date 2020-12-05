@@ -12,7 +12,7 @@
 [![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/senarin)](https://keybase.io/senarin)
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 
-- **[About me in general](https://about.yukina.kr)**
+- **[About me in general](https://yukina.kr)**
 - **[Blog in general](https://yukina.blog)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `4E44373A4D0B7191`
