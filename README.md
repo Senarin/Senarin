@@ -13,7 +13,8 @@
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 
 - **[About me in general](https://yukina.kr)**
-- **[Blog in general](https://yukina.blog)**
+- **[Blog in general A](https://yukina.blog)**
+- **[Blog in general B](https://yukina-sonority.tistory.com)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `4E44373A4D0B7191`
 
