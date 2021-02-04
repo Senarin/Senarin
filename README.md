@@ -14,7 +14,7 @@
 
 - **[About me in general](https://yukina.kr)**
 - **[Blog in general A](https://yukina.blog)**
-- **[Blog in general B](https://yukina-sonority.tistory.com)**
+- **[Blog in general B](https://sonoritynotes.com)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `4E44373A4D0B7191`
 
