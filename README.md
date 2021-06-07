@@ -1,7 +1,7 @@
 ### Welcome!!
 ![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)  
-[![About me](https://img.shields.io/badge/About-yukina-%238ADFFF)](https://yukina.kr)
-[![Blog](https://img.shields.io/badge/Blog-yukina-%2301A860)](https://yukina.blog)
+[![About me](https://img.shields.io/badge/About-yukina-%238ADFFF)](https://naruka.me)
+[![Blog](https://img.shields.io/badge/Blog-yukina-%2301A860)](https://sonoritynotes.com)
 ![Mail A](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail B](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yukina.sonority/)](https://www.instagram.com/yukina.sonority/)
