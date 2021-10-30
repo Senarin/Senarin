@@ -17,7 +17,5 @@
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `4E44373A4D0B7191`
 
-[` My works on GitHub `](https://github.com/Senarin?tab=repositories)  
 [` Website for my other works `](https://senarin.kr)  
 [` Intro website for my private server `](https://yukinastorage.net)
-
