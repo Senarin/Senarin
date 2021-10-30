@@ -18,4 +18,4 @@
 - **Public PGP Key** : `4E44373A4D0B7191`
 
 [` Website for my other works `](https://senarin.kr)  
-[` Intro website for my private server `](https://yukinastorage.net)
+[` Intro website for my private server `](https://yukinaserver.net)
