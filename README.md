@@ -13,7 +13,7 @@
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 
 - **[About me in general](https://naruka.me)**
-- **[Blog in general](https://sonoritynotes.com)**
+- **[Blog in general](https://blog.naruka.me)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `4E44373A4D0B7191`
 
