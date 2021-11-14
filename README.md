@@ -1,7 +1,7 @@
 ### Welcome!!
 ![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)  
 [![About me](https://img.shields.io/badge/About-naruka-%238ADFFF)](https://naruka.me)
-[![Blog](https://img.shields.io/badge/Blog-naruka-%2301A860)](https://sonoritynotes.com)
+[![Blog](https://img.shields.io/badge/Blog-naruka-%2301A860)](https://blog.naruka.me)
 ![Mail A](https://img.shields.io/badge/Mail-sonoda%40naruka.me-%233344AA)
 ![Mail B](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail C](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
