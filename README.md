@@ -11,6 +11,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/naruka.overture)](https://www.facebook.com/naruka.overture)
 [![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/senarin)](https://keybase.io/senarin)
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-2b90d9?style=flat-square&logo=Mastodon&logoColor=white&link=https://twingyeo.kr/@HoshiyamaNaruka)](https://twingyeo.kr/@HoshiyamaNaruka)
 
 - **[About me in general](https://naruka.me)**
 - **[Blog in general](https://blog.naruka.me)**
