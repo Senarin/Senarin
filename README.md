@@ -2,7 +2,7 @@
 ![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)  
 [![About me](https://img.shields.io/badge/About-naruka-%238ADFFF)](https://naruka.me)
 [![Blog](https://img.shields.io/badge/Blog-naruka-%2301A860)](https://blog.naruka.me)
-![Mail A](https://img.shields.io/badge/Mail-sonoda%40naruka.me-%233344AA)
+![Mail A](https://img.shields.io/badge/Mail-hoshiyama%40naruka.me-%233344AA)
 ![Mail B](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail C](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/naruka.overture/)](https://www.instagram.com/naruka.overture/)
