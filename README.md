@@ -14,11 +14,11 @@
 
 - **[About me in general](https://naruka.me)**
 - **[Blog in general](https://blog.naruka.me)**
+- **[My Personal website](https://senarin.kr)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `4E44373A4D0B7191`
 
-[` Website for my other works `](https://senarin.kr)  
-[` Intro website for my private server `](https://yukinaserver.net)
+[` Portal website for my private server `](https://yukinaserver.net)
 
 *I love Minato Yukina, Roselia and others.*
 
