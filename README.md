@@ -19,3 +19,7 @@
 
 [` Website for my other works `](https://senarin.kr)  
 [` Intro website for my private server `](https://yukinaserver.net)
+
+*I love Minato Yukina, Roselia and others.*
+
+![Yukina's Birthday](yukina-birthday-2021.jpg)
