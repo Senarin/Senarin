@@ -15,7 +15,7 @@
 - **[About me in general](https://naruka.me)**
 - **[Blog in general](https://blog.naruka.me)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
-- **Public PGP Key** : `4E44373A4D0B7191`
+- **Public PGP Key** : `181E26387CE39E80` / `DB8634FA5CB40672`
 
 [` My personal website `](https://senarin.kr)  
 [` Portal website for my private server `](https://yukinaserver.net)
