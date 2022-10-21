@@ -18,4 +18,4 @@
 - **Public PGP Key** : `181E26387CE39E80` / `DB8634FA5CB40672`
 
 [` My personal website `](https://senarin.kr)  
-[` Portal website for my private server `](https://yukinaserver.net)
+[` Portal website for my private server `](https://rinaserver.info)
