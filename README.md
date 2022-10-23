@@ -12,6 +12,8 @@
 [![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/senarin)](https://keybase.io/senarin)
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 
+[![wakatime](https://wakatime.com/badge/user/5558bfe5-2463-483f-b795-2c3421407df8.svg)](https://wakatime.com/@5558bfe5-2463-483f-b795-2c3421407df8)
+
 - **[About me in general](https://naruka.me)**
 - **[Blog in general](https://blog.naruka.me)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
