@@ -14,8 +14,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/5558bfe5-2463-483f-b795-2c3421407df8.svg)](https://wakatime.com/@5558bfe5-2463-483f-b795-2c3421407df8)
 
-- **[About me in general](https://naruka.me)**
-- **[Blog in general](https://blog.naruka.me)**
+- **[About me in general](https://rina.pe.kr)**
+- **[Blog in general](https://blog.rina.pe.kr)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `181E26387CE39E80` / `DB8634FA5CB40672`
 
