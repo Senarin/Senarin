@@ -2,7 +2,7 @@
 ![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)  
 [![About me](https://img.shields.io/badge/About-rina-%238ADFFF)](https://rina.pe.kr)
 [![Blog](https://img.shields.io/badge/Blog-rina-%2301A860)](https://blog.rina.pe.kr)
-![Mail A](https://img.shields.io/badge/Mail-hoshino%40naruka.me-%233344AA)
+![Mail A](https://img.shields.io/badge/Mail-hayasaka@rina.pe.kr-%233344AA)
 ![Mail B](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail C](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rina.poppinrose/)](https://www.instagram.com/rina.poppinrose/)
