@@ -1,7 +1,6 @@
 ### Welcome!!
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
-![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)  
+![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)  
 [![About me](https://img.shields.io/badge/About-rina-%238ADFFF)](https://rina.pe.kr)
 [![Blog](https://img.shields.io/badge/Blog-rina-%2301A860)](https://blog.rina.pe.kr)
 ![Mail A](https://img.shields.io/badge/Mail-hayasaka@rina.pe.kr-%233344AA)
