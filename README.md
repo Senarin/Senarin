@@ -10,7 +10,7 @@
 [![Tumblr](https://img.shields.io/badge/-Tumblr-35465c?style=flat-square&logo=tumblr&logoColor=white&link=https://kizuna-music.tumblr.com/)](https://kizuna-music.tumblr.com/)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/hoshinoichika0811)](https://www.twitch.tv/hoshinoichika0811)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rina.randomstar)](https://www.facebook.com/rina.randomstar)
-[![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/senarin)](https://keybase.io/senarin)
+[![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/randomstar)](https://keybase.io/randomstar)
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 
 [![wakatime](https://wakatime.com/badge/user/5558bfe5-2463-483f-b795-2c3421407df8.svg)](https://wakatime.com/@5558bfe5-2463-483f-b795-2c3421407df8)
@@ -18,7 +18,7 @@
 - **[About me in general](https://rina.pe.kr)**
 - **[Blog in general](https://randomstar.blog)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
-- **Public PGP Key** : `181E26387CE39E80` / `DB8634FA5CB40672`
+- **Public PGP Key** : `22F5 3117 D547 F698`
 
 [` My personal website `](https://senarin.kr)  
 [` Portal website for my private server `](https://rinaserver.info)
