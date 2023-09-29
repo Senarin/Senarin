@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rina.poppinrose/)](https://www.instagram.com/rina.poppinrose/)
 [![Tumblr](https://img.shields.io/badge/-Tumblr-35465c?style=flat-square&logo=tumblr&logoColor=white&link=https://kizuna-music.tumblr.com/)](https://kizuna-music.tumblr.com/)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/hoshinoichika0811)](https://www.twitch.tv/hoshinoichika0811)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rina.randomstar)](https://www.facebook.com/rina.randomstar)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/randomstar67)](https://www.facebook.com/randomstar67)
 [![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/randomstar)](https://keybase.io/randomstar)
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 
