@@ -20,4 +20,4 @@
 - **Public PGP Key** : `22F5 3117 D547 F698`
 
 [` My personal website `](https://senarin.kr)  
-[` Portal website for my private server `](https://rinaserver.info)
+[` Portal website for my private server `](https://randomstar.io)
