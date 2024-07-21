@@ -17,7 +17,7 @@
 - **[About me in general](https://rina.pe.kr)**
 - **[Blog in general](https://randomstar.blog)**
 - **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
-- **Public PGP Key** : `22F5 3117 D547 F698`
+- **Public PGP Key** : `F7FF 9385 8A4E D561` ([Keyoxide Profile](https://keyoxide.org/DFA85DA39345A9234D23FE1FF7FF93858A4ED561))
 
 [` My personal website `](https://senarin.kr)  
 [` Portal website for my private server `](https://randomstar.io)
