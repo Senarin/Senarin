@@ -1,8 +1,8 @@
 ### Welcome!!
 ![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)  
-[![About me](https://img.shields.io/badge/About-rina-%238ADFFF)](https://rina.pe.kr)
-[![Blog](https://img.shields.io/badge/Blog-rina-%2301A860)](https://randomstar.blog)
+[![About me](https://img.shields.io/badge/About-Haruboshi-%238ADFFF)](https://bombyeol.pe.kr)
+[![Blog](https://img.shields.io/badge/Blog-Haruboshi-%2301A860)](https://randomstar.blog)
 ![Mail A](https://img.shields.io/badge/Mail-rina@rina.pe.kr-%233344AA)
 ![Mail B](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail C](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
