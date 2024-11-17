@@ -3,7 +3,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)  
 [![About me](https://img.shields.io/badge/About-Haruboshi-%238ADFFF)](https://bombyeol.pe.kr)
 [![Blog](https://img.shields.io/badge/Blog-Haruboshi-%2301A860)](https://randomstar.blog)
-![Mail A](https://img.shields.io/badge/Mail-rina@rina.pe.kr-%233344AA)
+![Mail A](https://img.shields.io/badge/Mail-me@bombyeol.pe.kr-%233344AA)
 ![Mail B](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail C](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/starry.kasumi.0714/)](https://www.instagram.com/starry.kasumi.0714/)
