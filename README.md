@@ -14,9 +14,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/5558bfe5-2463-483f-b795-2c3421407df8.svg)](https://wakatime.com/@5558bfe5-2463-483f-b795-2c3421407df8)
 
+[![@Rina@uri.life](https://fedi-badge.deno.dev/@Rina@uri.life/followers.svg?style=flat)](https://uri.life/@Rina) [![@haruboshi@aoharu.place](https://fedi-badge.deno.dev/@haruboshi@aoharu.place/followers.svg?style=flat)](https://aoharu.place/@haruboshi)
+
 - **[About me in general](https://bombyeol.me)**
 - **[Blog in general](https://randomstar.blog)**
-- **Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
+- **Tech/Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `F7FF 9385 8A4E D561` ([Keyoxide Profile](https://keyoxide.org/DFA85DA39345A9234D23FE1FF7FF93858A4ED561))
 
 [` My personal website `](https://senarin.kr)  
