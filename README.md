@@ -11,6 +11,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/randomstar67)](https://www.facebook.com/randomstar67)
 [![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/randomstar)](https://keybase.io/randomstar)
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
+[![X/Twitter](https://img.shields.io/twitter/follow/haruboshi_san)](https://x.com/haruboshi_san)
 
 [![wakatime](https://wakatime.com/badge/user/5558bfe5-2463-483f-b795-2c3421407df8.svg)](https://wakatime.com/@5558bfe5-2463-483f-b795-2c3421407df8)
 
