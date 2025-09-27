@@ -7,7 +7,7 @@
 ![Mail B](https://img.shields.io/badge/Mail-themunyang21%40naver.com-%23F4BD6B)
 ![Mail C](https://img.shields.io/badge/Mail-aobamisaki%40kakao.com-%235FD0CC)  
 [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/irodori.canvas)](https://www.instagram.com/irodori.canvas)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/randomstar67)](https://www.facebook.com/randomstar67)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bombyeol.nim)](https://www.facebook.com/bombyeol.nim)
 [![Keybase](https://img.shields.io/badge/-Keybase-33a0ff?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/randomstar)](https://keybase.io/randomstar)
 [![Velog](https://img.shields.io/badge/-Velog-667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@aobamisaki)](https://velog.io/@aobamisaki)
 [![X/Twitter](https://img.shields.io/twitter/follow/haruboshi_san)](https://x.com/haruboshi_san)
