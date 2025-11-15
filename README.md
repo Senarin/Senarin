@@ -24,4 +24,4 @@
 
 [` My personal website `](https://senarin.kr/)  
 [` Portal website for my private server `](https://vernalrecords.io/)  
-[` Public Linux mirror repository 'Himari Mirror' `](https://mirror.rinarin.dev/)
+[` Public Linux mirror repository 'Himari Mirror' `](https://mirror.rinarin.dev/) *(Currently hosting [Termux](https://github.com/termux/termux-app) packages and [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) binaries)*
