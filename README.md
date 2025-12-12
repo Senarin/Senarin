@@ -18,7 +18,7 @@
 [![@randomstar@hoto.moe](https://fedi-badge.deno.dev/@randomstar@hoto.moe/followers.svg?style=flat)](https://hoto.moe/@randomstar)
 
 - **[About me in general](https://bombyeol.me)**
-- **[Blog in general](https://randomstar.blog)**
+- **[Blog in general](https://bombyeol.blog)**
 - **Tech/Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `F7FF 9385 8A4E D561` ([Keyoxide Profile](https://keyoxide.org/DFA85DA39345A9234D23FE1FF7FF93858A4ED561))
 
