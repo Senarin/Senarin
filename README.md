@@ -15,7 +15,7 @@
 [![wakatime](https://wakatime.com/badge/user/5558bfe5-2463-483f-b795-2c3421407df8.svg)](https://wakatime.com/@5558bfe5-2463-483f-b795-2c3421407df8)
 
 [![@Rina@uri.life](https://fedi-badge.deno.dev/@Rina@uri.life/followers.svg?style=flat)](https://uri.life/@Rina) [![@haruboshi@aoharu.place](https://fedi-badge.deno.dev/@haruboshi@aoharu.place/followers.svg?style=flat)](https://aoharu.place/@haruboshi)   
-[![@randomstar@hoto.moe](https://fedi-badge.deno.dev/@randomstar@hoto.moe/followers.svg?style=flat)](https://hoto.moe/@randomstar)
+[![@haruboshi@serafuku.moe](https://fedi-badge.deno.dev/@haruboshi@serafuku.moe/followers.svg?style=flat)](https://serafuku.moe/@haruboshi) [![@bombyeol@fleetingmemories.kr](https://fedi-badge.deno.dev/@bombyeol@fleetingmemories.kr/followers.svg?style=flat)](https://fleetingmemories.kr/@bombyeol)
 
 - **[About me in general](https://bombyeol.me)**
 - **[My Links](https://bombyeol.link)**
