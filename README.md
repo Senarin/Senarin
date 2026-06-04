@@ -16,13 +16,14 @@
 
 #### On the Fediverse
 [![@Rina@uri.life](https://fedi-badge.deno.dev/@Rina@uri.life/followers.svg?style=flat)](https://uri.life/@Rina) [![@haruboshi@aoharu.place](https://fedi-badge.deno.dev/@haruboshi@aoharu.place/followers.svg?style=flat)](https://aoharu.place/@haruboshi)   
-[![@haruboshi@serafuku.moe](https://fedi-badge.deno.dev/@haruboshi@serafuku.moe/followers.svg?style=flat)](https://serafuku.moe/@haruboshi) [![@bombyeol@fleetingmemories.kr](https://fedi-badge.deno.dev/@bombyeol@fleetingmemories.kr/followers.svg?style=flat)](https://fleetingmemories.kr/@bombyeol)
+[![@haruboshi@serafuku.moe](https://fedi-badge.deno.dev/@haruboshi@serafuku.moe/followers.svg?style=flat)](https://serafuku.moe/@haruboshi) [![@bombyeol@fleetingmemories.kr](https://fedi-badge.deno.dev/@bombyeol@fleetingmemories.kr/followers.svg?style=flat)](https://fleetingmemories.kr/@bombyeol)  
+[![@bombyeol@hackers.pub](https://fedi-badge.deno.dev/@bombyeol@hackers.pub/followers.svg?style=flat)](https://hackers.pub/@bombyeol)
 
 #### Other Links
 - **[About me in general](https://bombyeol.me)**
 - **[My Links](https://bombyeol.link)**
 - **[Blog in general](https://bombyeol.blog)**
-- **Tech/Dev Blog** : [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
+- **Tech/Dev Blog** : [@bombyeol](https://hackers.pub/@bombyeol) (**on Hackers' Pub**) / [@aobamisaki](https://velog.io/@aobamisaki) (**on Velog.io**)
 - **Public PGP Key** : `F7FF 9385 8A4E D561` ([Keyoxide Profile](https://keyoxide.org/DFA85DA39345A9234D23FE1FF7FF93858A4ED561))
 
 [` My personal website `](https://senarin.kr/)  
