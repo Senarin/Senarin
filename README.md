@@ -1,6 +1,6 @@
 ### Welcome!!
 ![Since](https://img.shields.io/badge/Since-Jun._1992-%235FD0CC)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)  
+<!-- [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)  -->
 [![About me](https://img.shields.io/badge/About-Haruboshi-%238ADFFF)](https://bombyeol.me)
 [![Blog](https://img.shields.io/badge/Blog-Haruboshi-%2301A860)](https://bombyeol.blog)
 ![Mail A](https://img.shields.io/badge/Mail-bombyeol%40bombyeol.me-%233344AA)
